@@ -1,0 +1,43 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+  color: white;
+  box-sizing: border-box;
+}
+
+.container{
+  display: inline-block;
+  justify-content: center;
+  width: 100%;
+}
+
+.pic1{
+  width: 100%;
+  height: ;
+  padding-top: 50px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.pic1 h1{
+  align-items: ;
+  justify-content:;
+  padding-top: 0px;
+}
+
+
+
+.img1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
